@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL
 - Heidi SQL
 - osTicket v1.18.25
-- Link to downloads: [https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6](https://drive.google.com/drive/folders/1Ks78jx_uTyC1OCun8WvLNg2L_fS0KF47?usp=drive_link)
+- Link to downloads: https://drive.google.com/drive/folders/1Ks78jx_uTyC1OCun8WvLNg2L_fS0KF47?usp=drive_link
 
 
 <h2>Installation Steps</h2>
