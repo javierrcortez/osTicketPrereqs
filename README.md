@@ -13,9 +13,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems</h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -26,8 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - VC Redist
 - MySQL
 - Heidi SQL
-- osTicket v1.15.8
-- Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+- osTicket v1.18.25
+- Link to downloads: [https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6](https://drive.google.com/drive/folders/1Ks78jx_uTyC1OCun8WvLNg2L_fS0KF47?usp=drive_link)
 
 
 <h2>Installation Steps</h2>
